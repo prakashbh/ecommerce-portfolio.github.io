@@ -13,7 +13,7 @@
 
 * * *
 
-> A strp towards better e-commerce management
+> A step towards better e-commerce management
 >
 > PH
 
